@@ -126,8 +126,9 @@ let watchList = [
 ];
 
 const returnMovieTitle = (watchlist) => {
-  watchList.filter((movie) => movie.Director === "Christopher Nolan"); // Aquí adentro escriban la función
+  watchList.filter((movie) => movie.Director === "Christopher Nolan aa"); // Aquí adentro escriban la función
 };
 
 const titlesArray = returnMovieTitle(watchList);
 console.log(titlesArray);
+dawdawd;
